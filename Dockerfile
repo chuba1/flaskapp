@@ -1,5 +1,6 @@
 # Alexey Chubarov aka CHUBA1
 #
+#auto_build :)
 FROM ubuntu:16.04
 MAINTAINER CHUBA1 <info@null.net>
 ENV updated_on "2018-09-10 900"
